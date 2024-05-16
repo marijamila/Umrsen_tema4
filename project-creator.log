@@ -1,0 +1,191 @@
+Loading the ModusToolbox Technology Packs and Early Access Packs
+Finished loading the ModusToolbox Technology Packs and Early Access Packs (5 ms)
+Loading the tools information
+Finished loading the tools information (83 ms)
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/Altia-Marketing/altia-ce-manifest/raw/main/altia-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-ce-manifest/raw/main/cyberon-mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-ce-manifest/raw/main/rutronik-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-ce-manifest/raw/main/sensiml-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-capabilities-manifest.json'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Inventek/inventek-bsp-manifest/raw/main/inventek-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/CyberonEBU/cyberon-mtb-mw-manifest/raw/main/cyberon-mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/sensiml/sensiml-mw-manifest/raw/main/sensiml-mw-manifest-fv2.xml'
+Finished loading the manifest data (4869 ms)
+0 error(s), 0 warning(s)
+
+Summary: 
+
+BSP: CY8CKIT-062S2-43012
+Template Application(s): Empty App
+Application(s) Root Path: C:/Users/Korisnik/mtw
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+C:/Users/Korisnik/ModusToolbox/tools_3.2/project-creator/project-creator-cli.exe --board-id CY8CKIT-062S2-43012 --board-uri https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062S2-43012 --board-commit latest-v4.X --app-id mtb-example-empty-app --app-uri https://github.com/Infineon/mtb-example-empty-app --app-commit latest-v4.X --target-dir C:/Users/Korisnik/mtw --user-app-name Umrsen_tema4 --use-modus-shell
+
+Starting application creation for 'C:/Users/Korisnik/mtw/Umrsen_tema4'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-empty-app'.
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'Umrsen_tema4'.
+Starting to commit changes to the filesystem and project 'mtb-example-empty-app'.
+Writing mtb file for asset 'CY8CKIT-062S2-43012' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/deps'.
+Writing mtb file for asset 'cat1cm0p' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'core-lib' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'core-make' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'cmsis' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Writing mtb file for asset 'device-db' to the folder 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs'.
+Starting: git -C C:/Users/Korisnik/mtw/Umrsen_tema4/libs clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062S2-43012 TARGET_CY8CKIT-062S2-43012
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/cat1cm0p/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/core-make/release-v3.3.1 -c advice.detachedHead=false checkout release-v3.3.1 --force
+Cloning into 'TARGET_CY8CKIT-062S2-43012'...
+HEAD is now at 58bf444 Upload core-make 3.3.1.5153 [2252]
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/core-make/release-v3.3.1 -c advice.detachedHead=false checkout release-v3.3.1 --force
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/mtb-hal-cat1/release-v2.6.0 -c advice.detachedHead=false checkout release-v2.6.0 --force
+HEAD is now at a74be8b Upload core-lib [1796]
+HEAD is now at 08904a2 Upload cat1cm0p 1.5.0.403 [2307]
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/core-lib/release-v1.4.1 -c advice.detachedHead=false checkout release-v1.4.1 --force
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/mtb-pdl-cat1/release-v3.10.0 -c advice.detachedHead=false checkout release-v3.10.0 --force
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/cat1cm0p/release-v1.5.0 -c advice.detachedHead=false checkout release-v1.5.0 --force
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/recipe-make-cat1a/release-v2.2.1 -c advice.detachedHead=false checkout release-v2.2.1 --force
+HEAD is now at 3f18eed Upload recipe-make-cat1a 2.2.1.5190 [2313]
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/recipe-make-cat1a/release-v2.2.1 -c advice.detachedHead=false checkout release-v2.2.1 --force
+Starting: git -C C:/Users/Korisnik/mtw/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+Success: git -C C:/Users/Korisnik/mtw/Umrsen_tema4/libs clone --origin cypress --no-checkout --filter=blob:none https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-062S2-43012 TARGET_CY8CKIT-062S2-43012
+Starting: git -C C:/Users/Korisnik/.modustoolbox/global/device-db/release-v4.15.0 -c advice.detachedHead=false checkout release-v4.15.0 --force
+HEAD is now at dc2df2d Upload mtb-pdl-cat1 3.10.0.32115 [2307]
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/mtb-pdl-cat1/release-v3.10.0 -c advice.detachedHead=false checkout release-v3.10.0 --force
+Starting: git -C C:/Users/Korisnik/mtw/Umrsen_tema4/libs/TARGET_CY8CKIT-062S2-43012 -c advice.detachedHead=false checkout release-v4.2.0 --force
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/cmsis/release-v5.8.0 -c advice.detachedHead=false checkout release-v5.8.0 --force
+HEAD is now at 2ede4ff Upload mtb-hal-cat1 [2307]
+Success: git -C C:/Users/Korisnik/mtw/mtb_shared/mtb-hal-cat1/release-v2.6.0 -c advice.detachedHead=false checkout release-v2.6.0 --force
+HEAD is now at 
+a085cc6 Upload TARGET_CY8CKIT-062S2-43012 [1515]
+Success: git -C C:/Users/Korisnik/mtw/Umrsen_tema4/libs/TARGET_CY8CKIT-062S2-43012 -c advice.detachedHead=false checkout release-v4.2.0 --force
+HEAD is now at b9f369b8 Upload device-db 4.15.0.5746 [2346]
+Success: git -C C:/Users/Korisnik/.modustoolbox/global/device-db/release-v4.15.0 -c advice.detachedHead=false checkout release-v4.15.0 --force
+Requested to change the active target to 'APP_CY8CKIT-062S2-43012'.
+Removed the file 'C:/Users/Korisnik/mtw/Umrsen_tema4/deps/TARGET_CY8CKIT-062S2-43012.mtb'.
+Writing the file 'C:/Users/Korisnik/mtw/Umrsen_tema4/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-empty-app'.
+Project "Umrsen_tema4" created successfully.
+Successfully created "Umrsen_tema4" application.
+==============================================================================
+= Export "Umrsen_tema4" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+make eclipse CY_IDE_PRJNAME=Umrsen_tema4 CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=3.2 CY_TOOLS_PATHS=C:/Users/Korisnik/ModusToolbox/tools_3.2 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: C:/Users/Korisnik/ModusToolbox/tools_3.2
+Searching installed tools in progress...
+Searching installed tools complete
+Initializing build: mtb-example-empty-app Debug APP_CY8CKIT-062S2-43012 GCC_ARM
+Prebuild operations complete
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+Tools Directory: C:/Users/Korisnik/ModusToolbox/tools_3.2
+Constructing build rules...
+Build rules construction complete
+==============================================================================
+= Building application =
+==============================================================================
+Generating compilation database file...
+-> ./build/compile_commands.json
+Compilation database file generation complete
+Generated C:/Users/Korisnik/mtw/Umrsen_tema4/.cproject
+Generated C:/Users/Korisnik/mtw/Umrsen_tema4/.project
+Generated C:/Users/Korisnik/mtw/Umrsen_tema4/.mtbLaunchConfigs/Umrsen_tema4 Attach (KitProg3_MiniProg4).launch
+Generated C:/Users/Korisnik/mtw/Umrsen_tema4/.mtbLaunchConfigs/Umrsen_tema4 Debug (KitProg3_MiniProg4).launch
+Generated C:/Users/Korisnik/mtw/Umrsen_tema4/.mtbLaunchConfigs/Umrsen_tema4 Erase (KitProg3_MiniProg4).launch
+Generated C:/Users/Korisnik/mtw/Umrsen_tema4/.mtbLaunchConfigs/Umrsen_tema4 Program (KitProg3_MiniProg4).launch
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+The application "Umrsen_tema4" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "Umrsen_tema4" application.
