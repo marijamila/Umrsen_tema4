@@ -118,14 +118,14 @@ int main(void)
 
     i2c_master_init();
     DPS310_start_measurement();
-    uint32_t temperature, pressure;
+    float temperature, pressure;
 
     for (;;)
     {
 
     	DPS310_measure(&temperature, &pressure);
-    	printf("Temperatura: %ld C, Tlak: %ld Pa\r\n", temperature, pressure);
-    	cyhal_system_delay_ms(500);
+    	printf("Temperatura: %f C, Tlak: %f Pa\r\n", temperature, pressure);
+    	cyhal_system_delay_ms(5000);
     }
 }
 

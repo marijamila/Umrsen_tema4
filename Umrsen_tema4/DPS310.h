@@ -39,6 +39,6 @@
 
 
 void DPS310_start_measurement(void);
-void DPS310_measure(uint32_t *temperature, uint32_t *pressure);
+void DPS310_measure(float *temperature, float *pressure);
 
 #endif /* DPS310_H_ */
