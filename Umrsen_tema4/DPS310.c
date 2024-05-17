@@ -26,14 +26,10 @@ void DPS310_start_measurement(void) {
 		coef_addr[i] = 0x10 + i;	// 0x10 - 0x21
 	}
 
-	data[0] = 0x28;
-	data[1] = 0x80;
-	if (CY_RSLT_SUCCESS == cyhal_i2c_master_write(&i2c_master_obj, I2C_SLAVE_ADDRESS, data, 2, 0, true)) {
-		for(int i = 0; i < 2;) {
-			i++;
-		}
-	}
-
+//	// ne pravi razliku
+//	data[0] = 0x28;
+//	data[1] = 0x80;
+//	cyhal_i2c_master_write(&i2c_master_obj, I2C_SLAVE_ADDRESS, data, 2, 0, true);
 
 	// read COEF
 	if (CY_RSLT_SUCCESS == cyhal_i2c_master_write(&i2c_master_obj, I2C_SLAVE_ADDRESS, coef_addr, COEF_SIZE, 0, false)) {
