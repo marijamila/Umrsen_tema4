@@ -112,6 +112,7 @@ int main(void)
     if (result != CY_RSLT_SUCCESS) {
             CY_ASSERT(0);
     }
+    printf("\x1b[2J\x1b[;H");	// clear terminal
 
     /* Enable global interrupts */
     __enable_irq();
