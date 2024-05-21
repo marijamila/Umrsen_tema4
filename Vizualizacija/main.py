@@ -2,6 +2,7 @@ from TemperaturePoint import TemperaturePoint
 from Plot3D import Plot3D
 import paho.mqtt.client as mqtt
 import re
+import matplotlib.pyplot as plt
 
 # The callback for when the client receives a CONNACK response from the server.
 def on_connect(client, userdata, flags, reason_code, properties):
@@ -28,4 +29,12 @@ mqttc.connect("localhost", 1883, 60)
 # handles reconnecting.
 # Other loop*() functions are available that give a threaded interface and a
 # manual interface.
-mqttc.loop_forever()
+
+# Function to process MQTT events
+def process_mqtt_events():
+    mqttc.loop(timeout=0.1)  # process network events
+    plt.pause(2.5)  # allow matplotlib to update
+
+# Start the plotting loop
+while True:
+    process_mqtt_events()
